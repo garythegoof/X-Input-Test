@@ -1,0 +1,2 @@
+Open XInputTest.exe
+It is a portable exe which means there is no installation required.
