@@ -13,9 +13,9 @@ How to setup:
 6. Install the contents inside but first read the readme.txt (it will help!)
 7. A Restart might be required but otherwise just open XInputTest.exe and it will work fine.
 
-**Note: 
+**Note:** 
 
-When opening you might be brought up with a Windows Defender Smart Screen calling it a threat. It is not but since it is a new program Windows is sceptical of it. Just click "More Info" then "Run Anyway" It will not show up the next time you run X Input Test | X Input Test is a Portable EXE which means it does not require an installation and will just be available on the user it was downloaded for.**
+**When opening you might be brought up with a Windows Defender Smart Screen calling it a threat. It is not but since it is a new program Windows is sceptical of it. Just click "More Info" then "Run Anyway" It will not show up the next time you run X Input Test | X Input Test is a Portable EXE which means it does not require an installation and will just be available on the user it was downloaded for.**
 
 
 If there is any issues don't hesitate to message me.
