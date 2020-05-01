@@ -12,6 +12,7 @@ How to setup:
 5. If it doesn't run extract the VC Redist folder
 6. Install the contents inside but first read the readme.txt (it will help!)
 7. A Restart might be required but otherwise just open XInputTest.exe and it will work fine.
+
 Note: X Input Test is a Portable EXE which means it does not require an installation and will just be available on the user it was downloaded for.
 
 
